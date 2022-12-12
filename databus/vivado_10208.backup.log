@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Sep 27 13:46:47 2022
+# Process ID: 10208
+# Current directory: C:/Users/HP/Desktop/STAJ_SUNUMLAR/veriyolu/mimari/databus
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9068 C:\Users\HP\Desktop\STAJ_SUNUMLAR\veriyolu\mimari\databus\databus.xpr
+# Log file: C:/Users/HP/Desktop/STAJ_SUNUMLAR/veriyolu/mimari/databus/vivado.log
+# Journal file: C:/Users/HP/Desktop/STAJ_SUNUMLAR/veriyolu/mimari/databus\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/HP/Desktop/STAJ_SUNUMLAR/veriyolu/mimari/databus/databus.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/lenovo/Downloads/databus' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:38 ; elapsed = 00:00:19 . Memory (MB): peak = 683.266 ; gain = 53.961
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Sep 27 14:10:12 2022...
